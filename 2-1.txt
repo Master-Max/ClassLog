@@ -1,0 +1,31 @@
+3:00 - 3:15
+	Lectured about online resources
+
+3:15 - 3:20
+	Talked about compilers c vs c++
+	talked about random difference between c and c++ to answer question
+3:23 - 3:40
+	Continued talking about canvas anouncements
+		*Joyce Recomended List C Books
+	Searched "deitel and deitel" on duckduckgo and showed us books
+	Free Resources Announcement, talked about portable tools
+	asked us if we had java and c environments on our computers
+3:40 - 3:42
+	Gave us a break
+3:42 - 3:50
+	"OK let's start class"
+	searched for presentation
+	first slides walked through the generations of computer/ programming
+3:50 - 4:00
+	Assembly Language - [Are we coding in assembly in this class?
+4:00 - 4:15
+	Talked about trying to buy some program called IDA & piracy
+	showed a call flow graph
+	Wont give out powerpoint
+4:15 - 4:25
+	"Let's move on to today's activities"
+	gave us code to copy no paper on what we should be trying to do
+4:25 - 4:50
+	"Talked while we looked at the code she gave us"
+	told us to look at the next snippet of code she provided called
+	"getting started with pointers"
