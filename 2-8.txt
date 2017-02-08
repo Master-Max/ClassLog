@@ -5,7 +5,18 @@
 3:18-3:26
 	up two the third slide...
 	shes talking about abstraction of systems and vending machines
-3:26-
+3:26-3:38
 	up to slide 7/13
 	litterally reading from slide...
-	
+3:38-4:07
+	up to slide 11/13
+	currently describing bags
+	finishing up powerpoint
+4:07-4:21
+	starting assignment: recreate java program in c or c++
+	demoed her java program
+
+4:21-4:50
+	assigned assignment
+	asked what we want for duedate and point value
+	kept working on my program till end
