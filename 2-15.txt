@@ -1,0 +1,34 @@
+3:05-3:20
+	Rick is observing
+	We're learning C now
+	We will be learning about Arrays
+	We asked about dynamic arrays vs linked lists vs arraylist
+		rick answered specifically about arraylists
+3:26-3:38
+	Covering the history of C
+		address, pointer, id
+	
+	Assembly has a problem with portablility?
+		Java, Virtual Machines	
+
+	K&R C named after the creators (Rick new them)
+
+		==Ricks Notes==
+		pointers and addresses are synonyms, same thing
+		every address in java is a pointer
+
+	Shes talking about different compilers
+3:38-3:47
+	Showing us a list of different compilers
+	C vs C++ Again
+	Still on 2nd page of 5
+3:47-3:55
+	Discussing new programming languages that we arent going to be using
+3:55-4:02
+	Shes litterally here to just give us a grade, I think we're expected
+	to entirely self teach...
+4:02-4:10
+	We tried to firgue out what she, specifically she will be teaching us
+4:10-
+	I dont feel like I'm learning...
+	

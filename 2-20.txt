@@ -1,0 +1,43 @@
+3:00-3:10
+	Starting up class
+3:11-3:16
+	Were starting pointers and malloc today
+	she's explaining why she's done what she's done so far
+		she's heard rumors, ect. about how, idk im very 
+		confused what she's trying to do
+	She seems to be leading up to teaching us C again... five weeks in...
+3:16-3:30
+	Intro to pointers & Malloc
+	Im going through her code
+	she spend a minute derailing us by bringing up an old encoder (EBCIiC)
+3:30-3:40
+	Discussing HAL - hardware abstraction layer
+	She focuses alot on how everything is abstracted these days
+	Discussing how the microprocessor is also abstracted
+	Oh and Assembly is fake too (on intel - modern pcs)
+3:40-4:32
+	Going back to the code
+
+	Q: Do i need a char pointer to point to a char?
+		ie:
+			char thing = 'a';
+			int *ptr = &thing
+
+4:32-
+	Shes on program 11 from her word doc
+
+	Q: What does the * do?
+		ie:
+			struct node *link = (struct node*) malloc(sizeof(struct node));
+
+			whats the difference between *link and node*?
+	
+	Shes on program 12
+	
+	LOOK UP pointer arithmetics
+
+
+
+
+
+	
